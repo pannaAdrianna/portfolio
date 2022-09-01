@@ -1,5 +1,5 @@
 # Portfolio
-## Projekty
+## Projekty webowe
 
 ### [MojeEEG](https://github.com/pannaAdrianna/EEGReader)
 - Autoryzacja użytkownika z użyciem Firebase Auth
@@ -9,5 +9,6 @@
 ### [SDR QR](https://github.com/pannaAdrianna/sdrqr)
 Zamysł: Wyszukiwanie gry planszowej po kodzie kreskowym i wypożyczenie jej dla danej osoby z unikalnym ID w postaci kodu QR.
 
+## Projekty mobilne
 ### [INCI App](https://github.com/pannaAdrianna/INCIApp)
-- Aplikacja wykorzystująca OCR do detekcji szkodliwych/niepożądanych składników kosmetykach 
+- Aplikacja mobilna wykorzystująca OCR do detekcji szkodliwych/niepożądanych składników kosmetykach 
